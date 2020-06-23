@@ -1,0 +1,33 @@
+<resources>
+    <!--nombre app-->
+    <string name="app_name">PROCESUAL HITO 3</string>
+    <!--Pantalla 1-->
+    <string name="title1">CALCULADORA</string>
+    <string name="desc1">Calculadora Cientifica con Fragments</string>
+    <!--Pantalla 2-->
+    <string name="title2">PROCESUAL HITO 3</string>
+    <string name="desc2">Univ: Raya Salazar Rolando Jhonatan Gestion: 2020</string>
+    <!--Pantalla 3-->
+    <string name="title3">Inscripcion</string>
+    <string name="desc3">Inscribe a tu equipo desde la App</string>
+
+    <!--Botonera-->
+    <string name="next">Next</string>
+    <string name="back">Skip</string>
+    <string name="done">Finalizar</string>
+    <string name="Entrada">Login</string>
+
+    <!--Pantalla 4-->
+    <string name="email">Username</string>
+    <string name="password">Password</string>
+
+    <!--Botones Login-->
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
